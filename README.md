@@ -1,3 +1,2 @@
 # MyBestPractice-
-
-![Описание]([(https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/2014/05/14/d4e3e5fe2f84250452c31abdadeb8949_0.jpg?itok=BV_Whc67)https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/2014/05/14/d4e3e5fe2f84250452c31abdadeb8949_0.jpg?itok=BV_Whc67)])
+<img src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F73706%2Foriginal%2Fimage-20150303-31835-lsmnuv.jpg%3Fixlib%3Drb-1.1.0%26q%3D45%26auto%3Dformat%26w%3D926%26fit%3Dclip&tbnid=cr1iUAaX-EnvMM&vet=12ahUKEwjZqtWE_POBAxWOvYsKHRInA20QMygfegQIARBo..i&imgrefurl=https%3A%2F%2Ftheconversation.com%2Fthe-future-of-mein-kampf-in-a-meme-world-38353&docid=MB2X_DwyGQaD1M&w=926&h=638&q=hitler%20memes&client=firefox-b-d&ved=2ahUKEwjZqtWE_POBAxWOvYsKHRInA20QMygfegQIARBo#imgrc=cr1iUAaX-EnvMM&imgdii=CogpYU0LjF7jvM' />
